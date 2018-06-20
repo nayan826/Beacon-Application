@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Beacon_Scanner</string>
+    <string name="Start_Scan">Start Scanning</string>
+    <string name="Stop_Scan">Stop Scanning</string>
+    <string name="B_Scan">Beacon Scanner</string>
+    <string name="title_activity_beacon__adapter">Beacon_Adapter</string>
+</resources>
