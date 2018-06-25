@@ -44,4 +44,6 @@ public class beacon_data {
 
     }
 
+    public beacon_data() {
+    }
 }
