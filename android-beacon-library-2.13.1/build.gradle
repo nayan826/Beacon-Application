@@ -2,6 +2,5 @@ configurations.maybeCreate("default")
 artifacts.add("default", file('android-beacon-library-2.13.1.aar'))
 dependencies {
     apply plugin: 'idea'
-    compile 'com.google.firebase:firebase-database:10.0.1'
 }
 apply plugin: 'com.google.gms.google-services'
